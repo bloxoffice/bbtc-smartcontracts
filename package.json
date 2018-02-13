@@ -1,0 +1,25 @@
+{
+  "name": "bbtc-smartcontracts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "truffle": "^4.0.6"
+  },
+  "devDependencies": {
+    "truffle": "^4.0.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bloxoffice/bbtc-smartcontracts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bloxoffice/bbtc-smartcontracts/issues"
+  },
+  "homepage": "https://github.com/bloxoffice/bbtc-smartcontracts#readme"
+}
